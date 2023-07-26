@@ -1,0 +1,16 @@
+.containerHome {
+  background-color: rgb(59, 59, 59);
+  padding: 2rem 3rem;
+  border-radius: 25px;
+}
+
+.buttonLink {
+  background-color: rgb(47, 47, 47);
+  padding: 0.5rem 1rem;
+  border-radius: 7px;
+  color: white;
+}
+
+.buttonLink:hover {
+  color: gray;
+}
